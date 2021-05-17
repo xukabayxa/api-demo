@@ -1,0 +1,13 @@
+{
+    "name": "Areas",
+    "alias": "areas",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Areas\\Providers\\AreasServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

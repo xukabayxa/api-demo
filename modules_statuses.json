@@ -1,0 +1,12 @@
+{
+    "Motels": true,
+    "Users": true,
+    "Customers": true,
+    "Schools": true,
+    "Areas": true,
+    "Files": true,
+    "Comments": true,
+    "Advertisings": true,
+    "Jobs": true,
+    "Friends": true
+}

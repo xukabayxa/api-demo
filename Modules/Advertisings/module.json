@@ -1,0 +1,13 @@
+{
+    "name": "Advertisings",
+    "alias": "advertisings",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Advertisings\\Providers\\AdvertisingsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
